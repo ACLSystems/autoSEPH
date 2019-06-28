@@ -1,0 +1,49 @@
+export WORKDIR=/Users/Arturo/aclprojects/autoSEPH
+export ALUMNO_TOKEN=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiYXJ0dXJvY2FzdHJvQGFjbHN5c3RlbXMubXgiLCJleHAiOjE1NjE1MDM1MzM0MjB9.QMnHaVTIp4Bgf0io8yhYhqW4eJZws1z3YD8C2h8Mk2g
+
+node $WORKDIR/moveRoster.js 	anaya_110@hotmail.com	fernandoanaya_7605@outlook.com.ar	SEP-INT-01-SEPH-001
+node $WORKDIR/moveRoster.js 	zurdo_lepirie@hotmail.com	siul0795@gmail.com	IND-001-SEPH-020
+node $WORKDIR/moveRoster.js 	zurdo_lepirie@hotmail.com	siul0795@gmail.com	MIC-WRD-01-SEPH-002
+node $WORKDIR/moveRoster.js 	vonitha_anahy@hotmail.com	maru.meneses1@hotmail.com	MIC-WRD-01-SEPH-002
+node $WORKDIR/moveRoster.js 	vonitha_anahy@hotmail.com	maru.meneses1@hotmail.com	IND-001-SEPH-020
+node $WORKDIR/moveRoster.js 	janty346@gmail.com	yany_201380@outlook.com	IND-001-SEPH-020
+node $WORKDIR/moveRoster.js 	janty346@gmail.com	yany_201380@outlook.com	MIC-WRD-01-SEPH-006
+node $WORKDIR/moveRoster.js 	ddam1211@hotmail.com	barrientosmariana60@outlook.com	IND-001-SEPH-020
+node $WORKDIR/moveRoster.js 	ddam1211@hotmail.com	barrientosmariana60@outlook.com	MIC-WRD-01-SEPH-006
+node $WORKDIR/moveRoster.js 	pink_sydarme@hotmail.com	krlos_12.@hotmail.com	IND-001-SEPH-020
+node $WORKDIR/moveRoster.js 	pink_sydarme@hotmail.com	krlos_12.@hotmail.com	MIC-WRD-01-SEPH-010
+node $WORKDIR/moveRoster.js 	benitojuarez_primaria@yahoo.com.mx	ema.67co@gmail.com	MIC-WRD-01-SEPH-012
+node $WORKDIR/moveRoster.js 	naye_2824@hotmail.com	yadis_240673@hotmail.com	IND-001-SEPH-020
+node $WORKDIR/moveRoster.js 	naye_2824@hotmail.com	yadis_240673@hotmail.com	MIC-WRD-01-SEPH-014
+node $WORKDIR/moveRoster.js 	lau_2406@live.com	armandogtimk4@hotmail.com	SEP-RO-01-SEPH-004
+node $WORKDIR/moveRoster.js 	zenlyflores@gmail.com	cristian.misaelhc@gmail.com	IND-001-SEPH-004
+node $WORKDIR/moveRoster.js 	zenlyflores@gmail.com	cristian.misaelhc@gmail.com	MIC-EXC-02-SEPH-002
+node $WORKDIR/moveRoster.js 	vargascano_64@hotmail.com	juancarlos_720524@hotmail.com	MIC-WRD-02-SEPH-005
+node $WORKDIR/moveRoster.js 	papelerialaescolar1@hotmail.com	jrafael24@hotmail.com	MIC-WRD-01-SEPH-042
+node $WORKDIR/moveRoster.js 	papelerialaescolar1@hotmail.com	jrafael24@hotmail.com	IND-001-SEPH-023
+node $WORKDIR/moveRoster.js 	ely260382@hotmail.com	martin490702@gmail.com	IND-001-SEPH-016
+node $WORKDIR/moveRoster.js 	ely260382@hotmail.com	martin490702@gmail.com	MIC-EXC-01-SEPH-008
+node $WORKDIR/moveRoster.js 	pedidosmelo@hotmail.com	esc.tec55@hotmail.com	IND-001-SEPH-003
+node $WORKDIR/moveRoster.js 	pedidosmelo@hotmail.com	esc.tec55@hotmail.com	HIG-101-SEPH-002
+node $WORKDIR/moveRoster.js 	papelerialaescolar1@hotmail.com	justanaranjoventura3@hotmail.com	MIC-WRD-01-SEPH-042
+node $WORKDIR/moveRoster.js 	gaviota_69@hotmail.com	gabygaby_02@hotmail.com	MIC-WRD-01-SEPH-044
+node $WORKDIR/moveRoster.js 	vanjosman@hotmail.com	hugoalbertoquirozramirez@gmail.com	IND-001-SEPH-007
+node $WORKDIR/moveRoster.js 	vanjosman@hotmail.com	hugoalbertoquirozramirez@gmail.com	MIC-WRD-03-SEPH-002
+node $WORKDIR/moveRoster.js 	tapis_1590@hotmail.com	placido_morelos@hotmail.com	IND-001-SEPH-017
+node $WORKDIR/moveRoster.js 	tapis_1590@hotmail.com	placido_morelos@hotmail.com	SEP-INT-01-SEPH-013
+node $WORKDIR/moveRoster.js 	sup.escolar066@gmail.com	resendizfuenteslidia@gmail.com	IND-001-SEPH-017
+node $WORKDIR/moveRoster.js 	sup.escolar066@gmail.com	resendizfuenteslidia@gmail.com	HIG-101-SEPH-002
+node $WORKDIR/moveRoster.js 	ignaciozaragozasec@outlook.es	ericooriverss@gmail.com	IND-001-SEPH-015
+node $WORKDIR/moveRoster.js 	ignaciozaragozasec@outlook.es	ericooriverss@gmail.com	SEP-RO-01-SEPH-010
+node $WORKDIR/moveRoster.js 	nan.peba@hotmail.com	for.ripa@gmail.com	IND-001-SEPH-022
+node $WORKDIR/moveRoster.js 	nan.peba@hotmail.com	for.ripa@gmail.com	MIC-WRD-01-SEPH-050
+node $WORKDIR/moveRoster.js 	aquilesserdan_1931@hotmail.com	tejeda.860817@gmail.com	IND-001-SEPH-014
+node $WORKDIR/moveRoster.js 	aquilesserdan_1931@hotmail.com	tejeda.860817@gmail.com	MIC-WRD-01-SEPH-051
+node $WORKDIR/moveRoster.js 	azul_cbs10@hotmail.com	s14z188@hotmail.com	IND-001-SEPH-017
+node $WORKDIR/moveRoster.js 	azul_cbs10@hotmail.com	s14z188@hotmail.com	SEP-INT-01-SEPH-015
+node $WORKDIR/moveRoster.js 	cainluis2014@gmail.com	roman49sanchez@gmail.com	IND-001-SEPH-017
+node $WORKDIR/moveRoster.js 	cainluis2014@gmail.com	roman49sanchez@gmail.com	SEP-INT-01-SEPH-015
+node $WORKDIR/moveRoster.js 	papelerialaescolar1@hotmail.com	solmar_6820@hotmail.com	MIC-WRD-01-SEPH-062
+node $WORKDIR/moveRoster.js 	vakitahermoza@hotmail.com	pilycel1963@hotmail.com	Word Básico 2013-SEPH-056
+node $WORKDIR/moveRoster.js 	milkayos8623@gmail.com	clemen691011@gmail.com	IND-001-SEPH-020
+node $WORKDIR/moveRoster.js 	milkayos8623@gmail.com	clemen691011@gmail.com	MIC-WRD-01-SEPH-015

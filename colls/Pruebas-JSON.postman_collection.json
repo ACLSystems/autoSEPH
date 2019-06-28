@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "66919702-7118-4236-98aa-ccb32ade2751",
+		"name": "Pruebas-JSON",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Espejo",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "70293804-2f50-49f6-8d4a-7eeb47727bc5",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"tests[\"Status code is 200\"] = responseCode.code === 200;",
+							"if (responseCode.code !== 200) {",
+							"    console.log(jsonData);",
+							"}",
+							"pm.globals.set(\"jsonData\", jsonData);"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic {{base64data}}",
+						"description": "LLave de API tokenizada Base64",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"description": "JSON",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"Hola\"\n}"
+				},
+				"url": {
+					"raw": "https://bridge.aclsystems.mx/mirror",
+					"protocol": "https",
+					"host": [
+						"bridge",
+						"aclsystems",
+						"mx"
+					],
+					"path": [
+						"mirror"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
